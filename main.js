@@ -32,4 +32,10 @@ let adjective3 = "entertaining";
 let madLib= "The Intro to JavaScript course is " +adjective1+ " James and Julia are so " +adjective2+ " I cannot wait to work through the rest of this "+ adjective2+" content!"
 console.log(madLib)
 //7
+let=firstName="Afnan";
+let=interest="Design and drow";
+let=hobby="watch movies";
+let=awesomeMessage ="Hi, my name is " +firstName+". I love " + interest + " . In my spare time, I like to " +hobby + "."
+console.log(awesomeMessage)
+
 
