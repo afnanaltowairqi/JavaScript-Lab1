@@ -20,3 +20,7 @@ let =thingTwo="two";
 console.log("the first number is "+ thingOne+ "the firssecond number is " + thingTwo);
 
 //5
+let bill=10.25 + 3.99 + 7.15;
+let tip= bill* 0.15;
+let total=tip +bill;
+console.log(total)
