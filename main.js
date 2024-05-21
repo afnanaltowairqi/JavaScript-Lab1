@@ -13,7 +13,7 @@ console.log("The fahrentheit to degree celsius " + degree_celsius);
 let hour=1
 let second
 let resultt=hour*3600;
-console.log(resultt);
+console.log("hour to second " + resultt);
 //4
 let =thingOne="one";
 let =thingTwo="two";
