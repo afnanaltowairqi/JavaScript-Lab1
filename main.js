@@ -10,11 +10,13 @@ let degree_celsius=fahrentheit-32*5/9
 console.log("The degree celsius to fahrentheit " + fahrentheit);
 console.log("The fahrentheit to degree celsius " + degree_celsius);
 /* hour to second */
-let hour=5
-let second=3600
-let resultt=hour*second;
-console.log( hour +" hours = NN Seconds " + resultt);
+let hour=1
+let second
+let resultt=hour*3600;
+console.log(resultt);
+//4
+let =thingOne="one";
+let =thingTwo="two";
+console.log("the first number is "+ thingOne+ "the firssecond number is " + thingTwo);
 
-let =thingOne;
-let =thingTwo;
-console.log();
+//5
